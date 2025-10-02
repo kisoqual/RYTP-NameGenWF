@@ -1,0 +1,10 @@
+C:\Users\acer\Documents\src\RYTPNameGenWf\bin\Release\RYTPNameGenWf.exe.config
+C:\Users\acer\Documents\src\RYTPNameGenWf\bin\Release\RYTPNameGenWf.exe
+C:\Users\acer\Documents\src\RYTPNameGenWf\bin\Release\RYTPNameGenWf.pdb
+C:\Users\acer\Documents\src\RYTPNameGenWf\obj\Release\RYTPNameGenWf.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\src\RYTPNameGenWf\obj\Release\RYTPNameGenWf.PoopNameGen.resources
+C:\Users\acer\Documents\src\RYTPNameGenWf\obj\Release\RYTPNameGenWf.Properties.Resources.resources
+C:\Users\acer\Documents\src\RYTPNameGenWf\obj\Release\RYTPNameGenWf.csproj.GenerateResource.cache
+C:\Users\acer\Documents\src\RYTPNameGenWf\obj\Release\RYTPNameGenWf.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\src\RYTPNameGenWf\obj\Release\RYTPNameGenWf.exe
+C:\Users\acer\Documents\src\RYTPNameGenWf\obj\Release\RYTPNameGenWf.pdb
